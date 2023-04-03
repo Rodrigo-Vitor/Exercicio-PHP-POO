@@ -1,0 +1,11 @@
+{
+  "name": "Exercicio POO",
+  "version": "1.0.0",
+  "description": "Exercicio de PHP",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rodrigo Vitor",
+  "license": "ISC"
+}
